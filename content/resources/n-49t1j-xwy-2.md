@@ -12,7 +12,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
-title: 3play caption fil
+title: 3play caption file
 uid: 4ab4e73f-4a30-5d15-acf0-f415da21b0f0
 video_files:
   video_captions_file: ''
