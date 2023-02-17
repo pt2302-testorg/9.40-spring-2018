@@ -12,7 +12,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: countdown_sample.mp4
-uid: b27490d9-0a9b-4021-bb22-82f21039f307
+uid: f9901a0a-7fc9-493d-abb6-cbacedb35939
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
