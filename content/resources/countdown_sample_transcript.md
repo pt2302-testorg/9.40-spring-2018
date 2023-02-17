@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/9-40-introduction-to-neural-computation-spring-2018/countdown_sample_transcript3.pdf
+file: /courses/9-40-introduction-to-neural-computation-spring-2018/countdown_sample_transcript.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
