@@ -14,12 +14,12 @@ resourcetype: Video
 title: countdown_sample.mp4
 uid: f9901a0a-7fc9-493d-abb6-cbacedb35939
 video_files:
-  video_captions_file: ''
-  video_thumbnail_file: ''
-  video_transcript_file: ''
+  video_captions_file: /courses/9-40-introduction-to-neural-computation-spring-2018/countdown_sample_captions.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/7rZCp7JsIHg/default.jpg
+  video_transcript_file: /courses/9-40-introduction-to-neural-computation-spring-2018/countdown_sample_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
-  youtube_id: ''
+  youtube_id: 7rZCp7JsIHg
 ---
