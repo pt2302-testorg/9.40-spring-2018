@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/9-40-introduction-to-neural-computation-spring-2018/5262d7111bcf17c733cb80c68591ebc9_MIT9_40S18_pset3.pdf
+file_size: 279439
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/9-40-introduction-to-neural-computation-spring-2018/aff7376bc30259e1496a2db3c4e03640_MIT9_40S18_Midterm1_StudyGuide.pdf
+file_size: 117538
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

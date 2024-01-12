@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/9-40-introduction-to-neural-computation-spring-2018/5e52ba32c815467120b863da47df1209_dNHqd6nGr5o.srt
+file_size: 90004
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
