@@ -21,9 +21,9 @@ title: "Lecture 10: Szemer\xE9di\u2019s Graph Regularity Lemma V: Hypergraph Rem
 uid: 73106852-771b-4394-a291-601c0a245dfa
 video_files:
   archive_url: https://archive.org/download/MIT18.217F19/MIT18_217F19_lec10_300k.mp4
-  video_captions_file: courses/9-40-introduction-to-neural-computation-spring-2018/rBUFitIoE14_captions.vtt
+  video_captions_file: /courses/9-40-introduction-to-neural-computation-spring-2018/rBUFitIoE14_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/rBUFitIoE14/default.jpg
-  video_transcript_file: courses/9-40-introduction-to-neural-computation-spring-2018/rBUFitIoE14_transcript.pdf
+  video_transcript_file: /courses/9-40-introduction-to-neural-computation-spring-2018/rBUFitIoE14_transcript.pdf
 video_metadata:
   youtube_id: rBUFitIoE14
 ---

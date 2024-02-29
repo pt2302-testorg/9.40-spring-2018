@@ -21,9 +21,9 @@ title: "Lecture 21: Structure of Set Addition I: Introduction to Freiman\u2019s 
 uid: 4fcceac2-eaed-44dc-98b3-fc79f10f2190
 video_files:
   archive_url: https://archive.org/download/MIT18.217F19/MIT18_217F19_lec21_300k.mp4
-  video_captions_file: courses/9-40-introduction-to-neural-computation-spring-2018/oLwZFBZylUw_captions.vtt
+  video_captions_file: /courses/9-40-introduction-to-neural-computation-spring-2018/oLwZFBZylUw_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/oLwZFBZylUw/default.jpg
-  video_transcript_file: courses/9-40-introduction-to-neural-computation-spring-2018/oLwZFBZylUw_transcript.pdf
+  video_transcript_file: /courses/9-40-introduction-to-neural-computation-spring-2018/oLwZFBZylUw_transcript.pdf
 video_metadata:
   youtube_id: oLwZFBZylUw
 ---
