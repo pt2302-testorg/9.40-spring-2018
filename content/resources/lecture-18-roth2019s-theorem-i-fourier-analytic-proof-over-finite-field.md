@@ -21,9 +21,9 @@ title: "Lecture 18: Roth\u2019s Theorem I: Fourier Analytic Proof over Finite Fi
 uid: 7343bf9d-92a3-439c-b1d1-0ff71fc35b73
 video_files:
   archive_url: https://archive.org/download/MIT18.217F19/MIT18_217F19_lec18_300k.mp4
-  video_captions_file: courses/9-40-introduction-to-neural-computation-spring-2018/buEtwpGvQpI_captions.vtt
+  video_captions_file: /courses/9-40-introduction-to-neural-computation-spring-2018/buEtwpGvQpI_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/buEtwpGvQpI/default.jpg
-  video_transcript_file: courses/9-40-introduction-to-neural-computation-spring-2018/buEtwpGvQpI_transcript.pdf
+  video_transcript_file: /courses/9-40-introduction-to-neural-computation-spring-2018/buEtwpGvQpI_transcript.pdf
 video_metadata:
   youtube_id: buEtwpGvQpI
 ---

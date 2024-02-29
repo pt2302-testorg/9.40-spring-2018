@@ -21,9 +21,9 @@ title: "Lecture 2: Forbidding a Subgraph I: Mantel\u2019s Theorem and Tur\xE1n\u
 uid: 178a5213-3845-4661-9a34-866e52b6efea
 video_files:
   archive_url: https://archive.org/download/MIT18.217F19/MIT18_217F19_lec02_300k.mp4
-  video_captions_file: courses/9-40-introduction-to-neural-computation-spring-2018/YAo1sd4kuOQ_captions.vtt
+  video_captions_file: /courses/9-40-introduction-to-neural-computation-spring-2018/YAo1sd4kuOQ_captions.vtt
   video_thumbnail_file: https://img.youtube.com/vi/YAo1sd4kuOQ/default.jpg
-  video_transcript_file: courses/9-40-introduction-to-neural-computation-spring-2018/YAo1sd4kuOQ_transcript.pdf
+  video_transcript_file: /courses/9-40-introduction-to-neural-computation-spring-2018/YAo1sd4kuOQ_transcript.pdf
 video_metadata:
   youtube_id: YAo1sd4kuOQ
 ---
