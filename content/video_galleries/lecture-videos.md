@@ -1,6 +1,7 @@
 ---
 content_type: video_gallery
 description: This section includes the lecture videos.
+draft: false
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
@@ -29,9 +30,7 @@ videos:
   - 5eec61bb-1a44-273e-6f5e-47df078a11f8
   - 092d9a97-d2b8-92dc-4770-ddd317160460
   - d4304813-2067-d2a3-a8ec-ae8997ae08d7
+  - b4bc6f19-3970-4194-b29d-47aecbe5bcb2
   website: 9-40-introduction-to-neural-computation-spring-2018
 ---
-
-
 {{< video-gallery "8db271f5-515f-975c-df06-e7c25ae543fe" >}}
-
