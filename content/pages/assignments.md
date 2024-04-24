@@ -58,7 +58,7 @@ This zip file contains: 1 .pdf file, 7 .m files, and 1 .p file
 Synapses as computational devices
 {{< tdclose >}}
 {{< tdopen >}}
-Reference: Vu, E.T., and F.B. Krasne. “[Evidence for a Computational Distinction Between Proximal and Distal Neuronal Inhibition](https://science.sciencemag.org/content/255/5052/1710).” _Science_ 255, no. 5052 (2018): 1710–12.
+Reference: Vu, E.T., and F.B. Krasne. “{{% resource_link "ae747a3c-d278-4f7e-a64b-ca00f53a084c" "Evidence for a Computational Distinction Between Proximal and Distal Neuronal Inhibition" %}}.” _Science_ 255, no. 5052 (2018): 1710–12.
 {{< tdclose >}}
 
 {{< trclose >}}
