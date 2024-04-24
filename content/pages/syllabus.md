@@ -7,7 +7,7 @@ ocw_type: CourseSection
 title: Syllabus
 uid: b25112af-1730-9e62-5ee6-fc6a180908c8
 ---
-## {{% resource_link "b08d7eb3-2188-47bb-934a-475188b1062c" "http://www.google.com" %}}
+## {{% resource_link "b4a6db86-7488-41db-900d-b5d6b307b8d0" "test" %}}
 
  
 
