@@ -7,6 +7,10 @@ ocw_type: CourseSection
 title: Syllabus
 uid: b25112af-1730-9e62-5ee6-fc6a180908c8
 ---
+## [http://www.google.com](http://www.google.com)
+
+ 
+
 ## Meeting Times
 
 Lectures: 2 sessions / week, 90 minutes / session
