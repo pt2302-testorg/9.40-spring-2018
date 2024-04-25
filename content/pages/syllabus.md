@@ -7,9 +7,7 @@ ocw_type: CourseSection
 title: Syllabus
 uid: b25112af-1730-9e62-5ee6-fc6a180908c8
 ---
-## [test](content/b4a6db86-7488-41db-900d-b5d6b307b8d0)
-
-[eLife Sciences](content/f96833c3-7a2f-4ba2-960e-fdffeef0a9ef)
+## {{% resource_link "8f6c4243-744a-9b41-6623-a021d0178db2" "Lecture Notes" %}}
 
 ## Meeting Times
 
