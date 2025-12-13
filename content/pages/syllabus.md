@@ -7,8 +7,6 @@ ocw_type: CourseSection
 title: Syllabus
 uid: b25112af-1730-9e62-5ee6-fc6a180908c8
 ---
-## {{% resource_link "8f6c4243-744a-9b41-6623-a021d0178db2" "Lecture Notes" %}}
-
 ## Meeting Times
 
 Lectures: 2 sessions / week, 90 minutes / session
@@ -19,7 +17,7 @@ Recitations: 1 session / week, 1 hour / session
 
 *Physics II* ([8.02](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007), 8.021, or [8.022](/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/)), [*6.0002 Introduction to Computational Thinking and Data Science*](/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016)*,* and [*9.01 Introduction to Neuroscience*](/courses/9-01-neuroscience-and-behavior-fall-2003) or permission of the instructor.
 
-Note: several modules of 8.02 can be found in [the Open Learning Library](content/b9bd7156-f2aa-4338-8c7b-b512ca5f52ef).
+Note: several modules of 8.02 can be found in [the Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library?f%5B0%5D=open_moocs_departments%3A34).
 
 ## Course Description
 
@@ -39,7 +37,7 @@ Additionally, the lowest problem set grade will be dropped in calculating your f
 
 Assignments require the use of MATLAB{{< sup "®" >}} version 2017b. Therefore, it is essential that you install this software on your laptop.
 
-Note: MIT OpenCourseWare does not provide student access or discounts for [MATLAB software](content/46943b57-7528-401b-a93d-acfcdf188c05). It can be purchased from The MathWorks{{< sup "®" >}}. For more information about MATLAB Pricing and Licensing, contact [The MathWorks](content/112ea745-43f9-4f90-85f0-4296f11efb39) directly.
+Note: MIT OpenCourseWare does not provide student access or discounts for [MATLAB software](http://www.mathworks.com/products/matlab/). It can be purchased from The MathWorks{{< sup "®" >}}. For more information about MATLAB Pricing and Licensing, contact [The MathWorks](http://www.mathworks.com/index.html) directly.
 
 ## Policy on Problem Set Collaboration
 
