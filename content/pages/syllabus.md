@@ -7,6 +7,8 @@ ocw_type: CourseSection
 title: Syllabus
 uid: b25112af-1730-9e62-5ee6-fc6a180908c8
 ---
+## Testing
+
 ## Meeting Times
 
 Lectures: 2 sessions / week, 90 minutes / session
@@ -15,7 +17,7 @@ Recitations: 1 session / week, 1 hour / session
 
 ## Prerequisites
 
-*Physics II* ([8.02](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007), 8.021, or [8.022](/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/)), [*6.0002 Introduction to Computational Thinking and Data Science*](/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016)*,* and [*9.01 Introduction to Neuroscience*](/courses/9-01-neuroscience-and-behavior-fall-2003) or permission of the instructor.
+*Physics II* ([8.02](http://localhost:8043/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007), 8.021, or [8.022](http://localhost:8043/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/)), [*6.0002 Introduction to Computational Thinking and Data Science*](http://localhost:8043/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016)*,* and [*9.01 Introduction to Neuroscience*](http://localhost:8043/courses/9-01-neuroscience-and-behavior-fall-2003) or permission of the instructor.
 
 Note: several modules of 8.02 can be found in [the Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library?f%5B0%5D=open_moocs_departments%3A34).
 
